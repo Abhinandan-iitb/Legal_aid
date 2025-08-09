@@ -58,7 +58,7 @@ Before starting, ensure the following are installed on your system:
 1. **Clone the Repository**  
    Clone the repository:
    ```bash
-   git clone https://github.com/Vishal-KumarSingh/legal-aid.git
+   git clone https://github.com/Vishal-KumarSingh/legal-aid.git](https://github.com/Abhinandan-iitb/Legal_aid.git
    cd legal-aid
    ```
 2. **Start the npm**
